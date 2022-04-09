@@ -15,5 +15,5 @@ public class RestApiTest {
 		System.out.println("Running RestAPITest4..........");
 		System.out.println("Running RestAPITest5..........");
 		System.out.println("Running RestAPITest6..........");
-	}
+}
 }
