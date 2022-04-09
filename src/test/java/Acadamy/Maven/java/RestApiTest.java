@@ -9,5 +9,7 @@ public class RestApiTest {
 	public void MavenruningTest()
 	{
 		System.out.println("Running RestAPITest..........");
+		System.out.println("Running RestAPITest1..........");
+		System.out.println("Running RestAPITest2..........");
 	}
 }
